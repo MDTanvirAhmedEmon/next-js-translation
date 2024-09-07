@@ -45,7 +45,7 @@ export default function About() {
             </div>
             <div className=" w-full h-[65vh] flex items-center justify-center">
 
-                <div className=" mx-4 md:mx-0 w-auto md:w-[60vw]">
+                <div className=" mx-4 md:mx-0 w-auto 2xl:w-[60vw]">
                     <h1 className=" mb-10 text-4xl md:text-7xl lg:text-9xl font-bold">{t('title')}</h1>
                 </div>
             </div>
